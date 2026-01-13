@@ -85,4 +85,4 @@ To run the benchmark source code, the following resources were utilized:
 * **GitHub Repo:** [https://github.com/srajan0149/ImageSeq_Benchmark](https://github.com/rahulkhichar7/ImageSequence-A-Benchmark-for-Visual-Temporal-Reasoning) 
 
 
-* **Website:** [https://srajan0149.github.io/ImageSeq_Benchmark/](https://www.google.com/search?q=https://srajan0149.github.io/ImageSeq_Benchmark/) 
+* **Website:** [https://srajan0149.github.io/ImageSeq_Benchmark/](https://srajan0149.github.io/ImageSeq_Benchmark/) 
